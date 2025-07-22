@@ -1,15 +1,6 @@
-# Changelog
-This file documents notable changes to SuperTuxKart across versions since its inception.
+# крч я всех в соло
 
-It should be kept in mind that some versions have a less complete changelog than others, and that this changelog does not list the details of the many small bugfixes and improvements which together make a significant part of the progress between releases.
-
-For similar reasons, and because some features are vastly more complex than others, attributions of main changes should not be taken as a shortcut for overall contribution.
-
-## SuperTuxKart 1.5
-
-### Networking
-* Improve the track-voting logic when no majority is achieved, by kimden
-* Prevent tracks missed by spectators from limiting the choice of active players, by kimden
+by kimden
 * Make bot indices start from one, by JipFr
 * Various bugfixes, by kimden
 

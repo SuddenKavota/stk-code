@@ -1,3 +1,5 @@
+# а у меня нет интернета я нищий можете не читать
+
 # Online networking games for STK
 
 ## Hosting server
